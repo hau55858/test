@@ -1,0 +1,22 @@
+body { color: #4c4c4c; font-family: Roboto, arial, Microsoft JhengHei; }
+
+/* --------------------------------------------------------------------------
+   .else
+   -------------------------------------------------------------------------- */
+
+@media screen and (min-width: 1200px)     /*視窗寬度大於1200px時套用樣式*/
+{
+
+}
+@media screen and (max-width: 1200px)    /*視窗寬度小於1200px時套用樣式*/
+{
+
+}
+@media screen and (min-width: 769px)     /*視窗寬度大於768px時套用樣式*/
+{
+
+}
+@media screen and (max-width: 768px)     /*視窗寬度小於768px時套用樣式*/
+{
+
+}
